@@ -1,0 +1,6 @@
+certifi==2021.10.8
+chardet==4.0.0
+decorator==5.1.1
+idna==3.3
+requests==2.27.1
+urllib3==1.26.8
